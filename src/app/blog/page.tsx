@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Image from 'next/image';
 import styles from './blog.module.css';
 import Link from 'next/link';
@@ -53,10 +52,6 @@ const BlogPage = () => {
       </Link>
     </div>
   );
-=======
-const BlogPage = () => {
-  return <div>BlogPage</div>;
->>>>>>> 838bdd64cbfd78989d8329cb734eba3538579c7f
 };
 
 export default BlogPage;
